@@ -9,8 +9,7 @@ order: 4
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-
-# About the Project
+> Read more about the project...
 ##### **Project Goal**
 The goal of the project is to expand church-based health promotion activities. In this project,  
 we have partnered with the Black Ministerial Alliance (BMA) in Boston and church members to co-design  
