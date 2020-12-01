@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the Project
 icon: fas fa-info
 order: 4
 
@@ -10,11 +10,9 @@ order: 4
 # MIT License
 ---
 
-## ## About the Project
-##### **Project Goal**
+### **Project Goal**
 The goal of the project is to expand church-based health promotion activities. In this project,  
 we have partnered with the Black Ministerial Alliance (BMA) in Boston and church members to co-design  
-a smartphone application. By working with church members, we hope to create an application that reflects  
-the priorities and values of their church community.   
+a smartphone application. By working with church members, we hope to create an application that reflects the priorities and values of their church community.   
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page yea.
