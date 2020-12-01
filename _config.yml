@@ -12,8 +12,8 @@ title: Church Connect                         # the main title
 tagline: Welcome  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This will be
-  the website for Church Connect
+  Learn more about the
+  Church Connect app.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://sccapp.github.io/'
@@ -25,16 +25,16 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: github_sccapp             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+ # username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Relational Agents                  # it will shows as the copyright owner in Footer
+  email: ragneuboston@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # https://twitter.com/username      # change to your twitter homepage
+    # https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
