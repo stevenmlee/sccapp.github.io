@@ -98,7 +98,7 @@ $sidebar-display: "sidebar-display";
   .site-subtitle {
     font-size: 95%;
     text-align: center;
-    color: #828282;
+    color: #ffffff;
     line-height: 1.2rem;
     word-spacing: 1px;
     margin: 0.5rem 1.5rem 2rem 1.5rem;
@@ -119,7 +119,7 @@ $sidebar-display: "sidebar-display";
     height: $tab-height;
     &:hover {
       .nav-link {
-        color: #f8f9facf;
+        color: #e7e7e7;
       }
     }
     &.active {
@@ -200,7 +200,7 @@ $sidebar-display: "sidebar-display";
     }
 
     .icon-border {
-      background: #525354;
+      background: #ffffff;
       width: 3px;
       height: 3px;
       border-radius: 50%;
@@ -233,7 +233,7 @@ $sidebar-display: "sidebar-display";
     width: 6rem;
     height: 6rem;
     border-radius: 50%;
-    border: 2px solid #b6b6b6;
+    border: 2px solid #ffffff;
     overflow: hidden;
     transform: translateZ(0); // fixed the zoom in Safari
     -webkit-transition: border-color 0.35s ease-in-out;
