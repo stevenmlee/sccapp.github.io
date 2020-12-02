@@ -146,7 +146,7 @@ defaults:
           url: /tabs/apptesters/
   -
     scope:
-      path: categories
+      path: Progress So Far
     values:
       breadcrumb:
         -
