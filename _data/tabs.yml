@@ -8,13 +8,16 @@
   name: Home
 -
   name: "Progress So Far"
+  icon: "fas fa-info"
   path: tabs
   url: about
 -
   name: "Current App Testers"
+  icon: "fas fa-flask"
   path: tabs
   url: currentapptesters
 -
   name: "About"
+  icon: "fas fa-scroll"
   path: tabs
   url: about
