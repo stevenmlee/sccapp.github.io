@@ -142,8 +142,8 @@ defaults:
           label: Home
           url: /
         -
-          label: For Current App Testers
-          url: /tabs/apptesters/
+          label: Tags
+          url: /tabs/tags/
   -
     scope:
       path: Categories
@@ -153,8 +153,8 @@ defaults:
           label: Home
           url: /
         -
-          label: Progress So Far
-          url: /tabs/progresssofar/
+          label: Categories
+          url: /tabs/categories/
   -
     scope:
       path: ''
