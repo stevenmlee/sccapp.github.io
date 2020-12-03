@@ -1,5 +1,5 @@
 ---
-title: Bethany
+title: Categories
 icon: fas fa-stream
 order: 1
 
