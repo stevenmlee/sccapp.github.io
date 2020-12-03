@@ -157,7 +157,8 @@ defaults:
           url: /tabs/categories/
   -
     scope:
-      path: 'tabs'
+      path: ''
+      type: tabs             # see `site.collections`
     values:
       layout: page
       dynamic_title: true    # Hide title in mobile screens.
